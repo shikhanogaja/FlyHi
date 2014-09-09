@@ -1,0 +1,8 @@
+.DS_Store
+.metadata
+website/.classpath
+website/.metadata
+website/.project
+website/.settings
+website/target
+website/Result_*
